@@ -5,6 +5,7 @@ header {
   padding-left: 10px;
 }
 
+
 span {font-weight: bold;}
 
 li {list-style-type: none;}
@@ -21,4 +22,12 @@ div {
 #projectList {
     display: flex;
     flex-wrap: wrap;
+}
+header {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#primaryInfo {
+  float: left;
 }
